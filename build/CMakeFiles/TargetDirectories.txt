@@ -1,0 +1,3 @@
+/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles/CrossVoxelGame.dir
+/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles/edit_cache.dir
+/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles/rebuild_cache.dir
