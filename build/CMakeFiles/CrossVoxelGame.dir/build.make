@@ -83,20 +83,84 @@ CMakeFiles/CrossVoxelGame.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CrossVoxelGame.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/main.cpp -o CMakeFiles/CrossVoxelGame.dir/src/main.cpp.s
 
+CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o: CMakeFiles/CrossVoxelGame.dir/flags.make
+CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o: ../src/Game.cpp
+CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o: CMakeFiles/CrossVoxelGame.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o -MF CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o.d -o CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o -c /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Game.cpp
+
+CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Game.cpp > CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.i
+
+CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Game.cpp -o CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.s
+
+CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o: CMakeFiles/CrossVoxelGame.dir/flags.make
+CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o: ../src/Camera.cpp
+CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o: CMakeFiles/CrossVoxelGame.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o -MF CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o.d -o CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o -c /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Camera.cpp
+
+CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Camera.cpp > CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.i
+
+CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Camera.cpp -o CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.s
+
+CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o: CMakeFiles/CrossVoxelGame.dir/flags.make
+CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o: ../src/Grid.cpp
+CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o: CMakeFiles/CrossVoxelGame.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o -MF CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o.d -o CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o -c /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Grid.cpp
+
+CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Grid.cpp > CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.i
+
+CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Grid.cpp -o CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.s
+
+CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o: CMakeFiles/CrossVoxelGame.dir/flags.make
+CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o: ../src/Voxel.cpp
+CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o: CMakeFiles/CrossVoxelGame.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o -MF CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o.d -o CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o -c /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Voxel.cpp
+
+CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Voxel.cpp > CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.i
+
+CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/src/Voxel.cpp -o CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.s
+
 # Object files for target CrossVoxelGame
 CrossVoxelGame_OBJECTS = \
-"CMakeFiles/CrossVoxelGame.dir/src/main.cpp.o"
+"CMakeFiles/CrossVoxelGame.dir/src/main.cpp.o" \
+"CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o" \
+"CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o" \
+"CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o" \
+"CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o"
 
 # External object files for target CrossVoxelGame
 CrossVoxelGame_EXTERNAL_OBJECTS =
 
 CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/src/main.cpp.o
+CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o
+CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o
+CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o
+CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o
 CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/build.make
 CrossVoxelGame: /usr/lib/x86_64-linux-gnu/libGL.so
 CrossVoxelGame: /usr/lib/x86_64-linux-gnu/libGLEW.so
 CrossVoxelGame: /usr/lib/x86_64-linux-gnu/libglfw.so.3.3
 CrossVoxelGame: CMakeFiles/CrossVoxelGame.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CrossVoxelGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable CrossVoxelGame"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CrossVoxelGame.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

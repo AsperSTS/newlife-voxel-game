@@ -1,4 +1,12 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o"
+  "CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o.d"
+  "CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o"
+  "CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o.d"
+  "CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o"
+  "CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o.d"
+  "CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o"
+  "CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o.d"
   "CMakeFiles/CrossVoxelGame.dir/src/main.cpp.o"
   "CMakeFiles/CrossVoxelGame.dir/src/main.cpp.o.d"
   "CrossVoxelGame"

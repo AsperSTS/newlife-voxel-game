@@ -1,11 +1,11 @@
 ## First steps
 
 ```bash
-	sudo apt update
-	sudo apt install build-essential
-	sudo apt install libglfw3-dev
-	sudo apt install libglew-dev
-	sudo apt install cmake
+sudo apt update
+sudo apt install build-essential
+sudo apt install libglfw3-dev
+sudo apt install libglew-dev
+sudo apt install cmake
 ```
 
 ## Create a Project structure

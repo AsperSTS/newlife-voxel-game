@@ -10,7 +10,11 @@ find_package(GLEW REQUIRED)
 find_package(glfw3 REQUIRED)
 
 # Add executable
-add_executable(CrossVoxelGame src/main.cpp)
+add_executable(CrossVoxelGame src/main.cpp
+    src/Game.cpp
+    src/Camera.cpp
+    src/Grid.cpp
+    src/Voxel.cpp)
 
 # Link libraries
 target_link_libraries(CrossVoxelGame

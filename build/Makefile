@@ -129,6 +129,102 @@ CrossVoxelGame/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/build
 .PHONY : CrossVoxelGame/fast
 
+src/Camera.o: src/Camera.cpp.o
+.PHONY : src/Camera.o
+
+# target to build an object file
+src/Camera.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.o
+.PHONY : src/Camera.cpp.o
+
+src/Camera.i: src/Camera.cpp.i
+.PHONY : src/Camera.i
+
+# target to preprocess a source file
+src/Camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.i
+.PHONY : src/Camera.cpp.i
+
+src/Camera.s: src/Camera.cpp.s
+.PHONY : src/Camera.s
+
+# target to generate assembly for a file
+src/Camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Camera.cpp.s
+.PHONY : src/Camera.cpp.s
+
+src/Game.o: src/Game.cpp.o
+.PHONY : src/Game.o
+
+# target to build an object file
+src/Game.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.o
+.PHONY : src/Game.cpp.o
+
+src/Game.i: src/Game.cpp.i
+.PHONY : src/Game.i
+
+# target to preprocess a source file
+src/Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.i
+.PHONY : src/Game.cpp.i
+
+src/Game.s: src/Game.cpp.s
+.PHONY : src/Game.s
+
+# target to generate assembly for a file
+src/Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Game.cpp.s
+.PHONY : src/Game.cpp.s
+
+src/Grid.o: src/Grid.cpp.o
+.PHONY : src/Grid.o
+
+# target to build an object file
+src/Grid.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.o
+.PHONY : src/Grid.cpp.o
+
+src/Grid.i: src/Grid.cpp.i
+.PHONY : src/Grid.i
+
+# target to preprocess a source file
+src/Grid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.i
+.PHONY : src/Grid.cpp.i
+
+src/Grid.s: src/Grid.cpp.s
+.PHONY : src/Grid.s
+
+# target to generate assembly for a file
+src/Grid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Grid.cpp.s
+.PHONY : src/Grid.cpp.s
+
+src/Voxel.o: src/Voxel.cpp.o
+.PHONY : src/Voxel.o
+
+# target to build an object file
+src/Voxel.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.o
+.PHONY : src/Voxel.cpp.o
+
+src/Voxel.i: src/Voxel.cpp.i
+.PHONY : src/Voxel.i
+
+# target to preprocess a source file
+src/Voxel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.i
+.PHONY : src/Voxel.cpp.i
+
+src/Voxel.s: src/Voxel.cpp.s
+.PHONY : src/Voxel.s
+
+# target to generate assembly for a file
+src/Voxel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/src/Voxel.cpp.s
+.PHONY : src/Voxel.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -162,6 +258,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CrossVoxelGame"
+	@echo "... src/Camera.o"
+	@echo "... src/Camera.i"
+	@echo "... src/Camera.s"
+	@echo "... src/Game.o"
+	@echo "... src/Game.i"
+	@echo "... src/Game.s"
+	@echo "... src/Grid.o"
+	@echo "... src/Grid.i"
+	@echo "... src/Grid.s"
+	@echo "... src/Voxel.o"
+	@echo "... src/Voxel.i"
+	@echo "... src/Voxel.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

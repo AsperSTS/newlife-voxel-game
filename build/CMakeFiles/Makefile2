@@ -81,12 +81,12 @@ clean: CMakeFiles/CrossVoxelGame.dir/clean
 CMakeFiles/CrossVoxelGame.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CrossVoxelGame.dir/build.make CMakeFiles/CrossVoxelGame.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=1,2 "Built target CrossVoxelGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target CrossVoxelGame"
 .PHONY : CMakeFiles/CrossVoxelGame.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CrossVoxelGame.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CrossVoxelGame.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/asper/Documents/OBSIDIAN/Apuntes8th/Personal/GamingRoadmap/CrossVoxelGame/build/CMakeFiles 0
 .PHONY : CMakeFiles/CrossVoxelGame.dir/rule
